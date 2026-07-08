@@ -21,8 +21,14 @@
     "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1265920/header.jpg",
     "hoursPlayed": 12,
     "datePosted": "2026-07-07",
-    "body": "This is a test",
-    "tab2": "",
+    "body": "This is a test\n\n[spoiler]kjhkhjfjf[/spoiler]",
+    "tabs": [
+      {
+        "id": "tab-1783543019008",
+        "name": "Tab 2",
+        "content": "[olist]\n[*] List item\n[/olist]"
+      }
+    ],
     "tags": []
   },
   {
