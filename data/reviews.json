@@ -1,19 +1,5 @@
 [
   {
-    "id": "life-is-strange-remastered",
-    "title": "Life is Strange: Before the Storm Remastered",
-    "recommended": true,
-    "summary": "",
-    "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1265930/header.jpg",
-    "hoursPlayed": 0,
-    "datePosted": "2026-07-07",
-    "body": "",
-    "pros": [],
-    "cons": [],
-    "verdict": "",
-    "tags": []
-  },
-  {
     "id": "overcooked",
     "title": "Overcooked",
     "recommended": true,
