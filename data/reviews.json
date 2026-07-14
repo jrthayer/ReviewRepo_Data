@@ -21,8 +21,18 @@
     "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1265920/header.jpg",
     "hoursPlayed": 12,
     "datePosted": "2026-07-07",
-    "body": "If you have a choice just buy the original. Graphics are really a side grade at best and bugs were added that the original doesn't have.\n\n\n\n",
+    "body": "If you have a choice just buy the original. Graphics are really a side grade at best and bugs were added that the original doesn't have.\n",
     "tabs": [
+      {
+        "id": "tab-1784052986750",
+        "name": "The Good",
+        "content": "hgf"
+      },
+      {
+        "id": "tab-1784052998465",
+        "name": "The Bad",
+        "content": "hgf"
+      },
       {
         "id": "tab-1784004745769",
         "name": "Game Mechanics",
