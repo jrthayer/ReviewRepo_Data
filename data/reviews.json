@@ -36,7 +36,7 @@
       {
         "id": "tab-1784004745769",
         "name": "Game Mechanics",
-        "content": "[tab=Time Rewind]text[/tab]\n[tab=Point & Click]gsadafgsh[/tab]\n[tab=New]text[/tab]"
+        "content": "[tab=Time Rewind]\n[h1]Time Rewind[/h1]Player keeps inventory and position on map but the local events are rewound\n\n[h3]How I Think This Works[/h3]My first thoughts were that everything would be tracked and therefore you just rewind literally everything on the screen however much time has passed.\n\nThinking about it more this is clearly not the case since the amount of time doesn't matter. In fact the features of Max's rewind power kind of confirm all this since the game doesn't reset your position or inventory. \n\nSo instead of rewinding the timeline I believe that each map has local events to trigger and after you trigger them it is added to the rewind bar, so when  you rewind it references that event and resets it once you rewind past it.\n[/tab]\n[tab=Point & Click]gsadafgsh[/tab]\n[tab=New]text[/tab]"
       }
     ],
     "tags": [
