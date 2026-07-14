@@ -25,8 +25,13 @@
     "tabs": [
       {
         "id": "tab-1784052986750",
-        "name": "The Good & The Bad",
-        "content": "[h1]The Good[/h1][list]\n[*] Great Story\n[*] Complex Characters with thought out backgrounds\n[*] Unique Hand Crafted Menus and interface prompts\n[*] Community Choice Comparisons\n[/list]\n[h1]The Bad[/h1][list]\n[*] Choices Barely Matter, generally resulted in dialogue changes but not actual story changes. While the characters feelings towards max were altered the overaching story remained the same except for 2 choices.\n[/list]"
+        "name": "The Good, The Bad, & The Okay",
+        "content": "[h1]The Good[/h1][list]\n[*] Great Story\n[*] Complex Characters with thought out backgrounds\n[*] Unique Hand Crafted Menus and interface prompts\n[*] Community Choice Comparisons\n[*]Memorable Music\n[/list]\n[h1]The Bad[/h1][list]\n[*]Episodic Releases\n[/list]\n[h1]The Okay[/h1][list][*] Choices Barely Matter, generally resulted in dialogue changes but not actual story changes. While the character's feelings towards Max were altered the overarching story remained the same except for 2 choices.\n[/list]"
+      },
+      {
+        "id": "tab-1784062711233",
+        "name": "Thoughts",
+        "content": "adg"
       },
       {
         "id": "tab-1784004745769",
