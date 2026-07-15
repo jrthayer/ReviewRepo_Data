@@ -1,10 +1,5 @@
 [
   {
-    "id": "block-1784074424242",
-    "name": "goodBadOkay",
-    "content": "[h1]The Good[/h1][list]\n[*] 1\n[*] 2\n[*] 3\n[*] 4\n[/list]\n[h1]The Bad[/h1][list]\n[*] 1\n[*] 2\n[*] 3\n[*] 4\n[/list]\n[h1]The Okay[/h1][list]\n[*] 1\n[*] 2\n[*] 3\n[*] 4\n[/list]"
-  },
-  {
     "id": "block-1784076192708",
     "name": "tabBar",
     "content": "[tab=First]\n\n[/tab]\n[tab=Second]\n\n[/tab]\n[tab=Third]\n\n[/tab]\n[tab=Forth]\n\n[/tab]\n[tab=Fifth]\n\n[/tab]"
