@@ -64,5 +64,19 @@
     "cons": [],
     "verdict": "",
     "tags": []
+  },
+  {
+    "id": "life-is-strange-double-exposure",
+    "title": "Life is Strange: Double Exposure",
+    "recommended": false,
+    "summary": "",
+    "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1874000/header.jpg",
+    "hoursPlayed": 9,
+    "datePosted": "2026-07-16",
+    "body": "",
+    "tabs": [],
+    "tags": [
+      "episodic"
+    ]
   }
 ]
