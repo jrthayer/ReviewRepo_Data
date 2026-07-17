@@ -2,7 +2,7 @@
   {
     "id": "tag-1784229539702",
     "name": "hello world",
-    "category": "genre"
+    "category": ""
   },
   {
     "id": "tag-1784229769136",
@@ -17,16 +17,91 @@
   {
     "id": "tag-1784238520546",
     "name": "point & click",
-    "category": "Monetization"
+    "category": "Game Mechanics"
   },
   {
     "id": "tag-1784247921755",
     "name": "mystery",
-    "category": "genre"
+    "category": "genre & setting"
   },
   {
     "id": "tag-1784248002060",
     "name": "story game",
+    "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784308411542",
+    "name": "time manipulation",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784308684331",
+    "name": "wasd",
+    "category": "controls & cameras"
+  },
+  {
+    "id": "tag-1784308685396",
+    "name": "third person",
+    "category": "controls & cameras"
+  },
+  {
+    "id": "tag-1784308695964",
+    "name": "sprint",
+    "category": "controls & cameras"
+  },
+  {
+    "id": "tag-1784308713741",
+    "name": "choices barely matter",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784308720856",
+    "name": "collectables",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784309265073",
+    "name": "$20",
+    "category": ""
+  },
+  {
+    "id": "tag-1784309287755",
+    "name": "female protag",
+    "category": ""
+  },
+  {
+    "id": "tag-1784309458232",
+    "name": "proximity events",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784309612434",
+    "name": "young adult life",
+    "category": ""
+  },
+  {
+    "id": "tag-1784309706737",
+    "name": "young adult",
+    "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784309741540",
+    "name": "high school",
+    "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784309772846",
+    "name": "small town",
+    "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784310286431",
+    "name": "$20 Retail",
     "category": "Monetization"
+  },
+  {
+    "id": "tag-1784310441654",
+    "name": "romance",
+    "category": "genre & setting"
   }
 ]
