@@ -1,18 +1,8 @@
 [
   {
-    "id": "tag-1784229539702",
-    "name": "hello world",
-    "category": ""
-  },
-  {
     "id": "tag-1784229769136",
     "name": "episodic",
     "category": "Monetization"
-  },
-  {
-    "id": "tag-1784238400337",
-    "name": "new guy",
-    "category": ""
   },
   {
     "id": "tag-1784238520546",
@@ -45,11 +35,6 @@
     "category": "controls & cameras"
   },
   {
-    "id": "tag-1784308695964",
-    "name": "sprint",
-    "category": "controls & cameras"
-  },
-  {
     "id": "tag-1784308713741",
     "name": "choices barely matter",
     "category": "Game Mechanics"
@@ -60,24 +45,9 @@
     "category": "Game Mechanics"
   },
   {
-    "id": "tag-1784309265073",
-    "name": "$20",
-    "category": ""
-  },
-  {
-    "id": "tag-1784309287755",
-    "name": "female protag",
-    "category": ""
-  },
-  {
     "id": "tag-1784309458232",
     "name": "proximity events",
     "category": "Game Mechanics"
-  },
-  {
-    "id": "tag-1784309612434",
-    "name": "young adult life",
-    "category": ""
   },
   {
     "id": "tag-1784309706737",
@@ -103,5 +73,10 @@
     "id": "tag-1784310441654",
     "name": "romance",
     "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784314765351",
+    "name": "sprint",
+    "category": "controls & cameras"
   }
 ]
