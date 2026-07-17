@@ -47,6 +47,7 @@
       "choices barely matter",
       "collectables",
       "mystery",
+      "$20 Retail",
       "episodic",
       "story game",
       "sprint",
@@ -54,8 +55,12 @@
       "young adult",
       "high school",
       "small town",
-      "$20 Retail",
       "romance"
+    ],
+    "coreTags": [
+      "story game",
+      "episodic",
+      "point & click"
     ]
   },
   {
