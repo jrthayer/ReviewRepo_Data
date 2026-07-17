@@ -27,12 +27,12 @@
   {
     "id": "tag-1784308684331",
     "name": "wasd",
-    "category": "controls & cameras"
+    "category": "controls & pov"
   },
   {
     "id": "tag-1784308685396",
     "name": "third person",
-    "category": "controls & cameras"
+    "category": "controls & pov"
   },
   {
     "id": "tag-1784308713741",
@@ -77,6 +77,6 @@
   {
     "id": "tag-1784314765351",
     "name": "sprint",
-    "category": "controls & cameras"
+    "category": "controls & pov"
   }
 ]
