@@ -4,15 +4,15 @@
     "name": "genre & setting"
   },
   {
-    "id": "tagcat-1784229755785",
-    "name": "Monetization"
-  },
-  {
     "id": "tagcat-1784308404731",
     "name": "Game Mechanics"
   },
   {
     "id": "tagcat-1784308681081",
     "name": "controls & pov"
+  },
+  {
+    "id": "tagcat-1784229755785",
+    "name": "Monetization"
   }
 ]
