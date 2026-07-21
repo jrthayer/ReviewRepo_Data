@@ -78,5 +78,45 @@
     "id": "tag-1784314765351",
     "name": "sprint",
     "category": "controls & pov"
+  },
+  {
+    "id": "tag-1784660668818",
+    "name": "fantasy",
+    "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784661464774",
+    "name": "medievel",
+    "category": "genre & setting"
+  },
+  {
+    "id": "tag-1784661480854",
+    "name": "$60 retail",
+    "category": "Monetization"
+  },
+  {
+    "id": "tag-1784661500439",
+    "name": "magic",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784661525984",
+    "name": "open world",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784661536948",
+    "name": "mount",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784661553654",
+    "name": "inventory",
+    "category": "Game Mechanics"
+  },
+  {
+    "id": "tag-1784661579892",
+    "name": "resource bars",
+    "category": "Game Mechanics"
   }
 ]

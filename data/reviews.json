@@ -57,11 +57,21 @@
     "hoursPlayed": 115,
     "datePosted": "2026-07-08",
     "body": "",
-    "pros": [],
-    "cons": [],
-    "verdict": "",
-    "tags": [],
-    "coreTags": []
+    "tabs": [],
+    "tags": [
+      "fantasy",
+      "medievel",
+      "$60 retail",
+      "magic",
+      "open world",
+      "mount",
+      "inventory",
+      "resource bars"
+    ],
+    "coreTags": [
+      "fantasy",
+      "open world"
+    ]
   },
   {
     "id": "life-is-strange-double-exposure",
