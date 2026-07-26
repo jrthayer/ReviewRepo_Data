@@ -12,12 +12,6 @@
     "icon": "mechanics"
   },
   {
-    "id": "saved-tab-1785032983314",
-    "name": "The Good, The Bad, & The Okay",
-    "content": "[h1]The Good[/h1][list]\n[*] 1\n[*] 2\n[*] 3\n[/list]\n[h1]The Bad[/h1][list]\n[*]1\n[*]2\n[*]3\n[/list]\n[h1]The Okay[/h1][list]\n[*] 1\n[*] 2\n[*] 3\n[/list]",
-    "icon": "list"
-  },
-  {
     "id": "saved-tab-1785045744589",
     "name": "The Good, The Bad, & The Okay",
     "content": "[list=The Good]\n[*] \n[/list]\n[list=The Bad]\n[*] \n[/list]\n[list=The Okay]\n[*] \n[/list]",
