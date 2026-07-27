@@ -80,13 +80,26 @@
     "id": "life-is-strange-double-exposure",
     "title": "Life is Strange: Double Exposure",
     "recommended": false,
-    "summary": "",
+    "summary": "A murder mystery game without an answer.",
     "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1874000/header.jpg",
     "hoursPlayed": 9,
     "releaseDate": "2024-10-29",
     "datePosted": "2026-07-16",
-    "body": "",
-    "tabs": [],
+    "body": "I'm usually really against spoilers in reviews, but I'll make an exception for this game.\n\nTo write a murder mystery story with no answer is like some secret layer of hell where you never get closure.\n\nFor just that alone I wouldn't recommend this game, but unfortunately that's just one part of the pile of garbage that is double exposure.\n",
+    "tabs": [
+      {
+        "id": "tab-1785192869544",
+        "name": "The Good, The Bad, & The Okay",
+        "content": "[list=The Good]\n\n[/list]\n[list=The Bad]\n[*] The Story\n[*] [tablink=tab-1785192998952|Establishing Characters]Establishing Characters[/tablink]\n[*] Modern Blocky UI\n[*] Flat Feeling Collectables\n[*] Timeline Powers (How they were actually used)\n[/list]\n[list=The Okay]\n[*] Timeline Powers (Concept)\n[*] Timeline Lighting\n[*] Voice Acting\n[/list]",
+        "icon": "list"
+      },
+      {
+        "id": "tab-1785192998952",
+        "name": "Thoughts",
+        "content": "[tab=Establishing Characters]\nOne of the worst things this game does is throw you in the deep end when meeting characters.\n\nYou spend the opening scenes with Safi and I honestly couldn't tell if she was Max's publisher or friend, let alone the self proclaimed \"best friend\" that is thrown around, till deep into the first bar scene and that's the best established relationship in the entire game.\n\nWith everyone else the first time you meet them you're actively investigating them. You are instantly forced to decide how you're gonna handle  accusations/decisions with no context at all. This would be fine if you'd never met them before but based on their dialogue with Max they have clearly already met you.  \n[/tab]\n\n[tab=Tab 2]\n\n[/tab]\n\n[tab=Tab 3]\n\n[/tab]\n\n[tab=Tab 4]\n\n[/tab]",
+        "icon": "thought"
+      }
+    ],
     "tags": [
       "episodic"
     ],
