@@ -212,5 +212,45 @@
       "episodic",
       "point & click"
     ]
+  },
+  {
+    "id": "life-is-strange-true-colors",
+    "title": "Life is Strange: True Colors",
+    "recommended": true,
+    "summary": "A passable story with solid characters, intense emotions, and handcrafted charm that the original Life is Strange is known for.",
+    "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/936790/header.jpg",
+    "hoursPlayed": 12,
+    "releaseDate": "2021-09-09",
+    "datePosted": "2026-08-05",
+    "body": "[b]This recommendation comes with the caveat that you buy it on sale. I'd happily pay $30 maybe even $40 but $60 is a steep price for a story game.[/b]\n\nNot gonna lie I was highly skeptical of the feelings \"super\" power, but the game proved me wrong.\n\nThe emotion scenes, in tandem with their corresponding journal entry (please, please, please read these), really try to depict the complexity of the emotion being presented. Not only the core emotion but the twisted logic a person's brain can follow to understandably justify their emotions.\n\nWere the scenes over the top and dramatic? Sure. But the representation of the emotions were interesting and thought-provoking. \n\nThe overarching story wasn't mind-blowing, but it was believable, and the characters acted in ways that made sense for the setting presented. I know that doesn't sound impressive, but that's the baseline I expect from these games, the really good parts of story games generally come from the characters and their relationships not a one of a kind plotline.\n\nUnfortunately most of the other games in the series delivered over the top plotlines that had fundamental plot holes that made it impossible to get immersed in the game. ",
+    "tabs": [
+      {
+        "id": "tab-1785906844816",
+        "name": "The Good, The Bad, & The Okay",
+        "content": "[list=The Good]\n[*] Music!!!\n[*] Voice Acting\n[*] Characters\n[*] Emotion Powers\n[*] Emotion Journal Entries\n[/list]\n[list=The Bad]\n[*] Episode 1 Pacing\n[*] Nameless Extras\n[*] Episode 5 Dad Tie In\n[/list]\n[list=The Okay]\n[*] The Story\n[*] The Colllectables\n[/list]",
+        "icon": "list"
+      }
+    ],
+    "tags": [
+      "$60 retail",
+      "choices barely matter",
+      "episodic",
+      "fantasy",
+      "collectables",
+      "mystery",
+      "point & click",
+      "romance",
+      "small town",
+      "sprint",
+      "story game",
+      "third person",
+      "proximity events",
+      "multiple endings"
+    ],
+    "coreTags": [
+      "story game",
+      "episodic",
+      "point & click"
+    ]
   }
 ]
